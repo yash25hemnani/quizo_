@@ -1,6 +1,6 @@
 # **Quizo - Quiz Management System**  
 
-A full-stack web application built with **React (Vite) for the frontend**, **Express + Node.js (TypeScript) for the backend**, and **MySQL Workbench** as the database.
+A full-stack web application built with **React (Vite) for the frontend**, **Express + Node.js (TypeScript) for the backend**, and **MySQL Workbench** as the database. The app performs basic authentication as well as allows us to Create, Read, Update and Delete Quizzes.
 
 ---
 
