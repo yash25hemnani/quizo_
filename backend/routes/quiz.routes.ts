@@ -51,7 +51,7 @@ router.post('/add', async (req: Request, res: Response) : Promise<void>  => {
             return;
         }
 
-        const userId = userRow[0].IDx;
+        const userId = userRow[0].IDx   ;
 
         console.log(userId)
         
