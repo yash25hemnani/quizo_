@@ -8,19 +8,6 @@ http://localhost:5000/
 
 ## Endpoints
 
-### Check Session
-
-```http
-GET /check
-```
-
-#### Response
-```json
-{
-  "loggedIn": "true"
-}
-```
-
 ### Signup
 
 ```http
