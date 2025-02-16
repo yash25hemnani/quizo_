@@ -110,4 +110,7 @@ Your React frontend will now communicate with the Express backend via the **API 
 2. Run the backend (`npm run dev` inside `/backend`).  
 3. Run the frontend (`npm run dev` inside `/frontend`).  
 
+## **API Documentation**
+Link: https://github.com/yash25hemnani/quizo_/documentation.md
+
 🚀 **Your project should be up and running!**
